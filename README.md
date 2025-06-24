@@ -11,5 +11,5 @@
 ![image url](https://github.com/d4a-arka/simple-crud-php/blob/4321dc7f06a31847a93f75c3e13293de457c2218/CRUD%20%236.png)
 ![image url](https://github.com/d4a-arka/simple-crud-php/blob/bd578dbb7ed9ad970c648af75584298dc3fff95c/CRUD%20%237.png)
 # Delete
-![image url]()
+![image url](https://github.com/d4a-arka/simple-crud-php/blob/007c7dcc1bda0914e393f62d8742dd72fcf97e2b/CRUD%20%238.png)
 ![image url]()
